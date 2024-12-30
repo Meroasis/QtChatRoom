@@ -1,0 +1,3 @@
+[submodule "lab5/ChatClient"]
+	path = lab5/ChatClient
+	url = git@github.com:Meroasis/QtChatRoom.git
